@@ -6,6 +6,7 @@
 -- Data: 2021-08-06
 -- Update: 2021-08-06
 -- 
+-- Este programa simula uma animação de jogo.
 -------------------------------------------------------
 local Display = require('display')
 local Sprite = require('sprite')
