@@ -1,4 +1,4 @@
-# Animação-I-game-love2d
+# Animacao-I-game-love2d
 
 Jogo simples produzido com o engine Love2d como uma atividade para disciplina de Design e Programação de Games
 
